@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolioWebSite/static/css/main.3b1aa14d.css",
+    "main.js": "/portfolioWebSite/static/js/main.65969a1b.js",
+    "static/media/bhagyesh.png": "/portfolioWebSite/static/media/bhagyesh.3fefd128913938f67170.png",
+    "static/media/cv.pdf": "/portfolioWebSite/static/media/cv.1e65dfc00069b2896935.pdf",
+    "static/media/me.jpg": "/portfolioWebSite/static/media/me.68af7bbe79df3a653e24.jpg",
+    "static/media/lms.jpeg": "/portfolioWebSite/static/media/lms.904bfd395314711bf27b.jpeg",
+    "index.html": "/portfolioWebSite/index.html",
+    "main.3b1aa14d.css.map": "/portfolioWebSite/static/css/main.3b1aa14d.css.map",
+    "main.65969a1b.js.map": "/portfolioWebSite/static/js/main.65969a1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1aa14d.css",
+    "static/js/main.65969a1b.js"
+  ]
+}
